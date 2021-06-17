@@ -1,8 +1,8 @@
 
 
 # ducker
-
 Ducker is a network traffic auto analyzer.
+
 
 # want features
 - detect flow 
@@ -10,10 +10,13 @@ Ducker is a network traffic auto analyzer.
 - visualize dynamic info
 - clustering for undefined traffic
 
+
 # status
 - repo created
-
+- use ntop? 
 
 
 # credit
 [kyshel](https://github.com/kyshel/ducker)
+
+
