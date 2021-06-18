@@ -14,6 +14,7 @@ Ducker is a network traffic auto analyzer.
 # status
 - repo created
 - use ntop? 
+- commit
 
 
 # credit
